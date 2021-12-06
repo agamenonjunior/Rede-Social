@@ -8,7 +8,7 @@ Interação entre usuários cadastrados no sistema:
 - DELETAR POSTAGEM :heavy_check_mark:
 - PROCURAR POR OUTRO USUÁRIOS :heavy_check_mark:
 - SEGUIR USUÁRIOS :heavy_check_mark:
-- NOVAS FUNCIONALIDADES :white_check_mark:
+- NOVAS FUNCIONALIDADES ☑️
 
 # Pré-requisitos
 Certifique-se de ter o seguinte instalado em sua máquina de desenvolvimento:
